@@ -1,12 +1,16 @@
-# Manim
+# Manim Demo
 
 ## About
 
 [Manim](https://www.manim.community/) is an animation engine for explanatory math videos.
 
-This repo is a Manim demo, using [Binder](https://mybinder.readthedocs.io/en/latest/index.html).
+This repo is an experiment for how to run Manim in a training environment.
+It is running in a container, using [Binder](https://mybinder.readthedocs.io/en/latest/index.html).
 
-The notebook is just an example, borrowed from [the Manim Community's demo](https://github.com/ManimCommunity/jupyter_examples/blob/main/First%20Steps%20with%20Manim.ipynb), to test the approach. More notebooks to follow....
+The notebook itself ([`manim-first-steps.ipynb`](manim-first-steps.ipynb)) is a copy of
+[the Manim Community's demo](https://github.com/ManimCommunity/jupyter_examples/blob/main/First%20Steps%20with%20Manim.ipynb),
+just to test our container.
+Alternate notebooks to follow....
 
 ## Run Online
 
@@ -14,7 +18,7 @@ Click here to start the notebook: [![Binder](https://mybinder.org/badge_logo.svg
 
 ## Development
 
-Run locally with:
+To test / run this locally, try:
 
 ```sh
 podman build -t manim-demo .
