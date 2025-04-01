@@ -14,7 +14,7 @@ Notebooks:
 
 ## Run Online
 
-Click here to start the notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clifford2/manim-demo/main?urlpath=%2Fdoc%2Ftree%2Fhello-world.ipynb)
+Click here to start the hello-world notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clifford2/manim-demo/main?urlpath=%2Fdoc%2Ftree%2Fhello-world.ipynb)
 
 ## Development
 
